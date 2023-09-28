@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Vaunt Community](https://api.vaunt.dev/v1/github/entities/re-tick/badges/community)](https://community.vaunt.dev/board/re-tick)
+<p>
+<a href="https://vaunt.dev">
+<img src="https://api.vaunt.dev/v1/github/entities/re-tick/contributions?format=svg" width="45%" />
+</a>
+<img decoding="async" loading="lazy" src="https://api.vaunt.dev/v1/github/entities/re-tick/achievements?format=svg&limit=3" width="50%" />
+</p>
